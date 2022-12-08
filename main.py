@@ -56,7 +56,8 @@ print(arr[1][0][0])  # give me 21 which is a first element
 #print(arr[0][1][2:4]) # get  55,66
 #print(arr[::2])
 #print(arr[::-1]) # reverse order [[[ 21  31  41  51  61]  [ 33  42  55 662 772]] [[  2   3   4   5   6]  [  3   4  55  66  77]]]
-#[9:58 AM] Ali Abdulsalam Alhosani
 #print(arr[::2])
 #print(arr[0:, 0:, 0:5:2])
 
+
+# uploaded for testing gitbub , git commit and push
